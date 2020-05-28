@@ -1,0 +1,6 @@
+[submodule "front-job-portal"]
+	path = front-job-portal
+	url = https://github.com/EricTalv/front-job-portal.git
+[submodule "back-job-portal"]
+	path = back-job-portal
+	url = https://github.com/EricTalv/back-job-portal.git
