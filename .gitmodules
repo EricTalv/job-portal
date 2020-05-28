@@ -1,0 +1,3 @@
+[submodule "job-portal-front"]
+	path = job-portal-front
+	url = https://github.com/EricTalv/job-portal-front
