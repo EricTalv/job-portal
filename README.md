@@ -12,6 +12,7 @@ AXIOS - Does api handeling
 
 # TODO 
 
+```
 [X] Setup NUXT
 [X] Setup Laravel 
 [X] Setup Simple front-end 
@@ -30,6 +31,7 @@ AXIOS - Does api handeling
 [ ] User Profile
   [ ] Employee front-end
   [ ] Employee front-end
+```
   
   
  
