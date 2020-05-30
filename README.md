@@ -1,6 +1,20 @@
-# The idea
+# About
 
-- Create a job posting portal/platform
+This is a Web-Platform project for job postings
+
+# MVP 
+
+Have separate employee and employer pages that display needed data.
+
+Employee's get to: 
+ + See employers posts.
+ + Upload their CV.
+ + Apply to employers post. 
+
+Employer's get to:
+ + Post job requests
+ + See applicants 
+ + Respond to applicants  
 
 # Architecture
 
