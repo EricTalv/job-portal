@@ -47,5 +47,8 @@ AXIOS - Does api handeling
   [ ] Employee front-end
 ```
   
-  
+# User registration and login 
+
+*How do I Handle user registration and login requests?*
+
  
